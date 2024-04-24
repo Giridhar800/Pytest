@@ -6,11 +6,11 @@ This project focuses on practicing pytest for Python testing.
 - Covers various pytest topics and concepts
 - Exercises provided for each topic
 - Code pushed to GitHub with CI/CD using GitHub Actions
-
 ## Getting Started
 1. Clone the repository.
-2. Install dependencies.
-3. Explore and run tests using pytest.
+- git clone'https://github.com/Giridhar800/Pytest.git'
+3. Install dependencies.
+4. Explore and run tests using pytest.
 
 ## Contributing
 Contributions welcome! Follow guidelines in CONTRIBUTING.md.
